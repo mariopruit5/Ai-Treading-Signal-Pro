@@ -1,1 +1,19 @@
 
+name: ai_trading_signal_pro
+description: AI Trading Signal Pro
+
+publish_to: 'none'
+
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+flutter:
+  uses-material-design: true
