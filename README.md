@@ -1,2 +1,2 @@
-# Ai-Treading-Signal-Pro
-Ai signal for treading 
+AI Trading Signal Pro
+Version 0.1 Alpha
